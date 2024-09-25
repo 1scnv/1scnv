@@ -21,9 +21,6 @@
 
 <p align="left">I'm Vinícius from Brazil<br><br>- 🔭 I’m working as Data Engineer<br>- 📚 I'm currently learning Data Engineering, architecture, modeling, collection and transformations and Python & SQL<br>- ⚡ In my free time I like to play games and watch movies</p>
 
-###
-
-<img src="https://raw.githubusercontent.com/1scnv/1scnv/output/snake.svg" alt="Snake animation" />
 
 ###
 
