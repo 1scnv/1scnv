@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=1scnv.1scnv&left_color=051428&right_color=80002b&left_text=Views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=1scnv.1scnv&left_color=#051428&right_color=#80002b&left_text=Views"  />
 </div>
 
 ###
