@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">I'm Vinícius from Brazil<br><br>- 🔭 I’m working as Data Engineer<br>- 📚 I'm currently learning Data Engineering, architecture, modeling, collection and transformations and Python & SQL<br>- ⚡ In my free time I like to play games and watch movies</p>
+<p align="left">I'm Vinícius from Brazil<br><br>- 🔭 I’m working as Data Engineer<br>- 📚 Postgraduated in Data Engineering<br>- ⚡ In my free time I like to play games and watch movies</p>
 
 
 ###
